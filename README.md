@@ -4,4 +4,4 @@
 
 ## Выкройка 
 
-![Выкройка игрушки](images/screenshot.png)
+![Выкройка игрушки](horse_pattern.jpeg)
